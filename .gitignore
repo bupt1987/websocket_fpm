@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+_tmp/
+nohup.out
+www/xhprof_lib/
+www/xhprof_html/
+dev/redis.port
